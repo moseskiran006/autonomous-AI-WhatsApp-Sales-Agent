@@ -637,7 +637,4 @@ whatsapp-agent/
 
 ---
 
-## 📝 License
 
-Internal use — PHN Technology Pvt Limited  
-Contact: outreach@phntechnology.com | +91 8600586005
