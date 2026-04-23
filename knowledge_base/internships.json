@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Online Summer Internship Program 2026",
+    "category": "internship",
+    "type": "online",
+    "url": "https://phntechnology.com/programs/summer-internship/online/",
+    "description": "PHN Technology's Project Build Training Program enables students to solve real-world problem statements by building complete industry-level projects. A structured 30-day online journey from fundamentals to a final industry-level project — fully remote with live sessions.",
+    "duration": "30 Days",
+    "price": "₹1999",
+    "seats_per_batch": "40",
+    "mode": "Online (Live Sessions)",
+    "schedule": "Week 1: 4 days/week, 3 hours/day | Weeks 2–4: 4 days/week, 4 hours/day",
+    "how_it_works": [
+      "Week 1 (3 hrs/day): Deep dive into your chosen domain with live sessions, tools setup, and project problem statement.",
+      "Weeks 2–4 (4 days/week, 4 hrs/day): Design, build, test, and iterate on your complete solution with mentor check-ins.",
+      "Weekly feedback sessions with domain experts — sharpen your solution, fix gaps, and elevate your final output.",
+      "Final week: Present your project, receive your certificate, and for selected students — begin research paper or patent guidance."
+    ],
+    "domains": [
+      {
+        "name": "AI/ML — Artificial Intelligence and Machine Learning",
+        "url": "https://phntechnology.com/programs/summer-internship/online/aiml",
+        "description": "Build intelligent systems, train ML models, and apply AI to real-world problem statements across computer vision, NLP and Predictive Analysis."
+      },
+      {
+        "name": "EV & MatLab — Electric Vehicles and MatLab Simulation",
+        "url": "https://phntechnology.com/programs/summer-internship/online/evmatlab",
+        "description": "Simulate EV Systems, powertrain models and control algorithms using MATLAB/Simulink — preparing you for India's fast-growing EV industry."
+      },
+      {
+        "name": "UI/UX — UX/UI Product Design",
+        "url": "https://phntechnology.com/programs/summer-internship/online/uiux",
+        "description": "Design user-centric digital products with real design thinking methodology — wireframes, prototypes, and a portfolio-ready case study from scratch."
+      },
+      {
+        "name": "Business Analytics & Data Intelligence",
+        "url": "https://phntechnology.com/programs/summer-internship/online/businessanalytics",
+        "description": "Turn raw data into business decisions using Excel, SQL, Python, and Power BI — building dashboards and analytical reports that drive real outcomes."
+      }
+    ],
+    "highlights": [
+      "Work on real-world problem statements and build solutions aligned with industry use cases",
+      "Develop projects that you can showcase in your resume, GitHub, and interviews with confidence",
+      "Continuous guidance from domain experts with support for research papers and patent exploration (selected students)",
+      "Focus on execution, not theory — learn by building and solving real challenges",
+      "Six industry-ready capabilities developed throughout the program",
+      "Fully remote — attend from anywhere in India"
+    ],
+    "certificate": "PHN Technology Internship Completion Certificate (research paper/patent guidance for selected students)",
+    "contact": {
+      "whatsapp": "+91 8600586005",
+      "email": "outreach@phntechnology.com"
+    }
+  },
+  {
+    "name": "Offline Summer Internship Program 2026 (IIT/NIT Campus)",
+    "category": "internship",
+    "type": "offline",
+    "url": "https://phntechnology.com/programs/summer-internship/offline/",
+    "description": "Get real IIT/NIT campus experience, build industry-level projects, and earn a certificate that actually gets you hired — all in 30 days. A unique hybrid program starting with 1 week online and then 3 weeks of hands-on training at a premier IIT/NIT campus.",
+    "duration": "30 Days (1 Week Online + 3 Weeks On-Campus)",
+    "price": "₹1999 (seat reservation)",
+    "package_value": "Complete package worth ₹25,000+",
+    "seats_per_campus": "40",
+    "mode": "Hybrid (Online + Offline at IIT/NIT Campus)",
+    "schedule": "Week 1 (Online): 4 days/week, 3 hours/day | Weeks 2–4 (Offline): 4 days/week, 4 hours/day",
+    "how_it_works": [
+      "Week 1 (Online, 3 hrs/day): Domain theory, problem statement introduction, tools & environment setup — all remote.",
+      "Weeks 2–4 (On-Campus, 4 days/week, 4 hrs/day): Hands-on lab sessions at your chosen IIT/NIT campus with expert mentors.",
+      "Design, build, test, and optimize your own industry-level solution from scratch. Your idea, your execution.",
+      "Receive IIT/NIT-affiliated industry certificate in collaboration with PHN, and for selected students — unlock research, paper, or patent guidance."
+    ],
+    "campuses": [
+      {
+        "name": "IIT Patna",
+        "location": "Patna Campus",
+        "url": "https://phntechnology.com/programs/summer-internship/offline/iit-patna",
+        "domains": ["AI/ML", "Robotics", "IoT", "Automation", "Embedded"]
+      },
+      {
+        "name": "IIT Jammu",
+        "location": "Jammu Campus",
+        "url": "https://phntechnology.com/programs/summer-internship/offline/iit-jammu",
+        "domains": ["AI/ML", "Robotics", "IoT", "Automation", "Embedded"]
+      },
+      {
+        "name": "NIT Delhi",
+        "location": "Delhi Campus",
+        "url": "https://phntechnology.com/programs/summer-internship/offline/nit-delhi",
+        "domains": ["AI/ML", "Robotics", "IoT", "Automation", "Embedded"]
+      },
+      {
+        "name": "IIT Guwahati",
+        "location": "Guwahati Campus",
+        "url": "https://phntechnology.com/programs/summer-internship/offline/iit-guwahati",
+        "domains": ["AI/ML", "Robotics", "IoT", "Automation", "Embedded"]
+      },
+      {
+        "name": "NIT Warangal",
+        "location": "Warangal Campus",
+        "url": "https://phntechnology.com/programs/summer-internship/offline/nit-warangal",
+        "domains": ["AI/ML", "Robotics", "IoT", "Automation", "Embedded"]
+      },
+      {
+        "name": "IIIT Bhopal",
+        "location": "Bhopal Campus",
+        "url": "https://phntechnology.com/programs/summer-internship/offline/iiit-bhopal",
+        "domains": ["AI/ML", "Robotics", "IoT", "Automation", "Embedded"]
+      }
+    ],
+    "highlights": [
+      "Real IIT/NIT campus experience — train inside world-class Centres of Excellence",
+      "Work on real Industry 4.0 problem statements and build fully functional systems from scratch",
+      "Develop 3 complete, working systems that strengthen your resume, portfolio, and interview profile",
+      "Innovative project outcomes receive structured guidance for research publication and patent exploration (selected students)",
+      "Learn under IIT/NIT mentors and domain experts with structured evaluation",
+      "Work across mechanical, electronics, and AI domains — just like real-world engineering teams",
+      "IIT/NIT-affiliated industry certificate upon completion"
+    ],
+    "certificate": "IIT/NIT-affiliated Industry Certificate in collaboration with PHN Technology (co-branded). Research paper or patent guidance for selected students.",
+    "contact": {
+      "whatsapp": "+91 8600586005",
+      "email": "outreach@phntechnology.com"
+    }
+  }
+]

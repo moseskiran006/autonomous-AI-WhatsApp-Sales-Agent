@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Edge AI ML and IoT System (IIT Madras x PHN Technology)",
+    "category": "course",
+    "description": "The only IIT-led Edge AI Professional Certification program that bridges theory and industry-grade deployment — live, hands-on, and hardware-first. Learn to transform raw sensor data into deployed intelligence with Edge AI & IoT Systems.",
+    "duration": "4 Months (60 Hours)",
+    "price": "₹60,000",
+    "original_price": null,
+    "mode": "Live Instruction (Theory) + Remote Real Hardware Access (Practical)",
+    "schedule": "Weekends Only (Cohort 1 starts June 5, 2026. Enrollment closes May 31, 2026)",
+    "prerequisites": "Engineers and developers aiming to build real-world embedded ML systems.",
+    "instructor": "Prof. Babji Srinivasan (IIT Madras) and Dr. Ramji Srinivasan (Adjunct Professor, IIT Madras)",
+    "syllabus": [
+      "Module 1-2: ML Foundations for Edge Applications (6 Hours)",
+      "Module 3-5: Sensor Data Engineering (9 Hours)",
+      "Module 6-9: Model Training for Edge Deployment (12 Hours)",
+      "Module 10-12: Edge Deployment & Optimisation (9 Hours)",
+      "Module 13-15: Integration & Systems Thinking (9 Hours)",
+      "Module 16: Capstone Presentation & Portfolio Completion (3 Hours)"
+    ],
+    "highlights": [
+      "2+1 Format (2 Hours Theory + 1 Hour Practical per session)",
+      "Delivered by active IIT Madras professors",
+      "Max 100 students (focused cohort)",
+      "Remote hardware access with real-time practical (Seeed XIAO BLE Sense / Arduino UNO)",
+      "End-to-end sensor-to-deployment pipeline",
+      "Fully deployed working system portfolio outcome",
+      "Live Case Studies: Weather prediction on Tiny ML, Non-voice audio classification"
+    ],
+    "placement_support": "Positions graduates for Edge AI Engineer (₹12-22 LPA), Embedded ML Developer (₹14-28 LPA), and ML Systems Engineer roles. Candidates with a deployed edge AI demo score 3x higher in technical screening.",
+    "certificate": "IIT Madras Faculty Programme Certificate (IITM Pravartak)",
+    "emi_available": "3-month EMI available (₹20,000/month)",
+    "next_batch": "June 5, 2026"
+  }
+]

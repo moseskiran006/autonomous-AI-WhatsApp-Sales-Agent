@@ -1,0 +1,109 @@
+{
+  "name": "PHN Technology Pvt. Ltd.",
+  "tagline": "India's Most Trusted Destination For AI & Robotics Education",
+  "founded": "2013 (Incorporated as Pvt. Ltd. in 2018)",
+  "founder": "Mr. Pradip H. Narayankar",
+  "location": "Viman Nagar, Pune, Maharashtra, India",
+  "full_address": "Tower A, Giga Platinum, Somnath Nagar Rd, near Akoya Skoda Showroom, Clover Park, Viman Nagar, Pune, Maharashtra 411014",
+  "description": "PHN Technology is revolutionizing education by delivering comprehensive, industry-driven learning solutions. Founded to bridge the gap between traditional education and industry requirements, PHN Technology ensures students gain practical, job-ready skills. With 12+ years of expertise, they have collaborated with 2500+ institutions across India, providing customized education solutions that integrate STEM learning, robotics, AI, IoT, and industry-relevant technologies into academic frameworks. Their programs foster creativity, problem-solving, and real-world application, helping students transition seamlessly into tech-driven careers.",
+  "mission": "To make technical education practical and accessible, empowering student innovation and leadership across India and beyond, fostering a generation of globally competitive technologists and entrepreneurs.",
+  "vision": "To nurture future leaders and innovators by providing hands-on, entrepreneurial technical education and empowering India's youth, with expanding global impact.",
+  "contact": {
+    "email_general": "info@phntechnology.com",
+    "email_programs": "outreach@phntechnology.com",
+    "phone": "+91 8412 841200",
+    "whatsapp": "+91 8600586005",
+    "website": "https://phntechnology.com",
+    "lms_portal": "https://lms.phntechnology.com"
+  },
+  "support_hours": "Mon–Sat (contact for exact hours)",
+  "stats": {
+    "years_of_experience": "12+",
+    "students_trained": "8 Lakh+ (800,000+)",
+    "schools_associated": "2500+",
+    "expert_trainers": "300+",
+    "awards_received": "5+",
+    "institutional_partners": "14+ (IITs, NITs, IIITs, PSUs)"
+  },
+  "services": [
+    {
+      "name": "School Solution",
+      "url": "https://phntechnology.com/schoolsolution",
+      "description": "Passion-driven, hands-on STEM education for school students (Class 6–12). Includes IIT lab visits, coding, robotics, AI, and entrance exam preparation."
+    },
+    {
+      "name": "College Solution",
+      "url": "https://phntechnology.com/collegesolution",
+      "description": "Industry readiness program for college students including live projects, workshops, certifications, and placement connect. Bridging the gap between degree and industry."
+    },
+    {
+      "name": "Robotics Development",
+      "url": "https://phntechnology.com/roboticsdevelopment",
+      "description": "Industrial automation, AI-powered robotics, and smart manufacturing solutions for institutions and industries."
+    },
+    {
+      "name": "IT Development",
+      "url": "https://phntechnology.com/itdevelopment",
+      "description": "SaaS, cloud computing, and customized software solutions to help businesses stay ahead with technology."
+    }
+  ],
+  "programs": {
+    "url": "https://phntechnology.com/programs",
+    "types": [
+      "Hands-On Workshops (Robotics, AI/ML, IoT, Drone, AR/VR)",
+      "Expert-Led Masterclasses",
+      "Internship Programs (IIT/NIT/IIIT collaboration)",
+      "Bootcamps (intensive multi-day programs)",
+      "School STEM Programs",
+      "College Degree Enhancement Programs"
+    ]
+  },
+  "key_highlights": [
+    "Expert curriculum designed and reviewed by India's top faculty (IIT/NIT directors and professors)",
+    "Hands-on focus with practical labs and real project milestones",
+    "Verified certification co-branded with IIT/NIT/IIIT partner institutes",
+    "Career guidance included in programs",
+    "India's most equipped Technology CoE Lab in Pune",
+    "100% immersive live and hands-on learning experience"
+  ],
+  "institutional_partners": [
+    "IIT Bombay", "IIT Madras", "IIT Guwahati", "IIT Patna", "IIT Jammu",
+    "NIT Delhi", "NIT Puducherry", "NIT Manipur",
+    "IIIT Vadodara", "IIIT Surat", "IIIT Bhopal",
+    "TCIL (Telecom Consultants India Ltd.)",
+    "ITI Limited",
+    "BELOP"
+  ],
+  "advisory_board_highlights": [
+    "Prof. K.K. Pant – Director, IIT Roorkee",
+    "Dr. Laxmidhar Behera – Director, IIT Mandi",
+    "Prof. Dharmendra Singh – Director, IIIT Vadodara",
+    "Dr. Shirish Ravan – Former Head, UN-SPIDER Beijing Office & ISRO veteran",
+    "Dr. A.G. Nagarkar – Ex-DRDO Scientist, Retired Joint Director, Ministry of Defence",
+    "Mr. B.S. Gugale – Rtd. Senior Scientist, DRDO"
+  ],
+  "awards": [
+    "International Glory Award",
+    "Robotics Startup Award",
+    "Udyog Bhushan Puraskar"
+  ],
+  "milestones": [
+    {"year": 2013, "event": "PHN Technology founded with a mission to redefine technical education"},
+    {"year": 2015, "event": "Expanded workshops and training programs across Maharashtra"},
+    {"year": 2018, "event": "Incorporated as PHN Technology Pvt. Ltd."},
+    {"year": 2021, "event": "Launched Centers of Excellence & Foundation Labs with AI, IoT, and Robotics"},
+    {"year": 2023, "event": "Strengthened partnerships with IITs, NITs, and defence PSUs"},
+    {"year": 2024, "event": "Established global collaborations and strategic international alliances"}
+  ],
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/company/phn-technology/posts/?feedView=all",
+    "instagram": "https://www.instagram.com/phn_technology/",
+    "website": "https://phntechnology.com"
+  },
+  "legal": {
+    "terms_of_use": "https://phntechnology.com/terms",
+    "privacy_policy": "https://phntechnology.com/privacy",
+    "refund_policy": "https://phntechnology.com/refund",
+    "refund_summary": "All fees are non-refundable and non-transferable. No cancellations accepted after payment. Exceptions only for duplicate payments or verified payment errors — submit request to info@phntechnology.com within 48 hours."
+  }
+}

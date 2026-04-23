@@ -1,0 +1,1196 @@
+
+========================================
+FILE: 1737_24032026_EdgeAI_IoT_Program_Brochure (1) 1 (1).pdf
+========================================
+
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 1 
+IIT MADRAS × PHN TECHNOLOGY 
+ 
+PROFESSIONAL CERTIFICATION PROGRAM 
+ 
+EDGE AI ML 
+And 
+IoT System 
+ 
+From Raw Sensor Data to Deployed Intelligence on Real Hardware. 
+ 
+The only IIT-led Edge AI program that bridges theory and industry-grade deployment  
+— live, hands-on, and hardware-first. 
+60 Hours 
+ 
+Live Instruction 
+16 
+Sessions 
+ 
+Weekends Only 
+4  
+Months 
+ 
+Duration 
+100 
+ 
+Max Cohort Size 
+₹60,000 
+ 
+ 
+Program Fee 
+Faculty / Coordinator 
+ 
+Prof. Babji Srinivasan 
+| AI & Cyber-Physical Systems Expert |  
+| Translational Research Strategist | 
+     Professor — Department of AM & BE, IIT Madras 
+     Director — ParvAI Labs Pvt Ltd   
+ 
+15+ Years of Academic & Research 
+ Experience in IITs 
+ 
+150+ Publications · ₹250M+ Research Funding · 
+2300+ Citations (H-index: 27) 
+| Co-Head — FedEx SMART |  
+| Co-PI — Sports Science & Analytics | 
+ 
+ 
+· Columbia University · Texas Tech University · 
+· Indian Institute of Technology Madras ·  
+· Anna University · 
+ Faculty / Facilitator 
+ 
+Dr. Ramji Srinivasan 
+| AI Strategist | Deep Tech Specialist | 
+| Enterprise AI Consultant | 
+Adjunct Professor & Senior Consultant — IIT Madras 
+Director — Bit2Qubit Technologies (UK) | PlayuNxt Tech Pvt. Ltd 
+Scientific Advisor — ParvAI Labs | Sonolight Imaging 
+ 
+23+ Years Leading Scalable AI Systems, Product 
+Innovation & Real-World Deployments 
+ 
+Innovation lead with 20+ Global Patents & Filings 
+Former AI Lead — Qualcomm (UK) 
+Former Lead Researcher — Cambridge Silicon Radio (UK) 
+Former Scientist — NIOT (India) 
+ 
+· Queen’s University Belfast · 
+· Indian Institute of Technology Madras ·  
+· Anna University · 
+COHORT 1 - June 5, 2026 · ENROLLMENT CLOSES - May 31, 2026 
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 2 
+ 
+01   ABOUT THE PROGRAM 
+India has hundreds of thousands of ML engineers. Very few can deploy a model to real 
+hardware. That gap — between knowing theory and building systems that work — is what this 
+program exists to close. 
+PROGRAM VISION 
+This is not a course that teaches you to follow tutorials. It is built around the belief that genuine engineering 
+skill comes from understanding systems deeply — the mathematics behind models, the physics of sensor 
+data, the constraints of edge hardware, and the rigour of professional deployment. Every session connects 
+theory to practice. Every practical build toward a portfolio artifact that speaks for itself. 
+WHY NOW — MARKET DEMAND 
+THE INDUSTRY SIGNAL 
+Edge AI roles — Embedded ML Developer, 
+TinyML Engineer, Edge AI Systems Engineer 
+— are among the fastest-growing 
+specializations in the technology hiring 
+market. Companies including NVIDIA, 
+Qualcomm, Bosch, Google, Intel, and India's 
+fastest-growing IoT startups are actively 
+building edge inference capabilities into their 
+products. 
+ 
+What they cannot find: engineers who 
+understand the complete pipeline. Not just 
+model training. The full loop — sensor 
+sampling, data engineering, quantization, on-
+device inference, latency optimization, and 
+real-world robustness. 
+ SALARY BENCHMARKS 
+Edge AI Engineer:  ₹12–22 LPA 
+Embedded ML Developer:  ₹14–28 LPA 
+ML Systems Engineer:  ₹15–30 LPA 
+ 
+TARGET COMPANIES HIRING 
+NVIDIA · Qualcomm · Google · Intel · Bosch · 
+Tesla · Edge Impulse · Siemens · Tata Elxsi · L&T 
+Technology · Indian IoT Startups 
+ 
+CAREER TRAJECTORY 
+Students completing this program are positioned to 
+move from ₹6–8 LPA service roles to ₹14–22 LPA 
+product-company positions within 12 months of 
+placement. 
+THE MARKET GAP THIS PROGRAM FILLS 
+➢ Self-paced courses: global content, but no real hardware, no deployment, minimal interaction  
+➢ Premium EdTech: trainer-led, surface-level ML, demo-grade projects, large cohorts 
+➢ Government MOOCs: strong theory, but no edge deployment, no sensor pipeline, no portfolio outcome  
+None teach the full sensor-to-deployment pipeline. 
+None provide real hardware practical. 
+PROGRAM HIGHLIGHTS 
+Live 
+ 
+Instructor-led — not pre-
+recorded 
+2 + 1  
+ 
+Theory + Practical 
+ per session 
+Real H/W 
+ 
+Live remote access to real-time 
+practice and deployment 
+IIT Madras 
+ 
+IIT Madras faculty 
+certificate 
+  
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 3 
+02   FACULTY — YOUR INSTRUCTORS 
+Your instructors don’t just teach AI—they build, deploy, and publish it. 
+Bringing together IIT Madras research excellence and global industry experience, they deliver AI 
+that works in the real world. 
+FACULTY / COORDINATOR 
+ 
+Prof. Babji Srinivasan 
+Professor, Department of Applied Mechanics and Biomedical Engineering 
+Indian Institute of Technology Madras 
+ 
+ACADEMIC CREDENTIALS 
+ 
+Prof. Babji Srinivasan is a Professor at Indian Institute of Technology Madras, with prior 
+academic experience at Indian Institute of Technology Gandhinagar and international 
+research experience at Columbia University, New York. His work spans machine learning, 
+control systems, and cyber -physical systems, with a strong focus on real -world data and 
+deployment. 
+ 
+HIGHLIGHTS 
+150+ 
+ 
+Research Papers in  
+Top-Tier Journals  
+₹250M+ 
+ 
+Research Funding 
+Secured 
+CoE – SS&A,  
+FedEx SMART 
+ 
+Leading Applied Research 
+& Industry Collaboration 
+ Sports 
+Analytics 
+ 
+Advisor in High 
+Performance Systems 
+• Co-Head at FedEx Smart Center for supply chain Modeling , Algorithm, Research and 
+Technology, Indian Institute of Technology Madras. Co- Principal Investigator at the Center 
+for Excellence in Sports Science and Analytics Indian Institute of Technology Madras  
+• Secured ₹250M+ in competitive research funding across industry and government, 
+enabling large-scale real-world deployments. 
+• Active industry and government collaboration with FedEx, Defence Research and 
+Development Organisation (CVRDE, NPOL), MoE, SAI, SERB, DAE, Pfizer, and many 
+startups, delivering deployed AI systems across logistics, defense, healthcare, sports, and 
+industrial domains. 
+• Combines deep academic rigor with real -world system deployments, enabling a clear 
+understanding of both mathematical principles and engineering trade-offs. 
+WHY LEARN FROM PROF. BABJI? 
+Prof. Babji teaches Edge AI through real -world deployments, bringing practical insight into 
+how AI systems operate under real constraints. His approach combines machine learning, 
+control systems, and cyber -physical systems with strong mathematical groundin g to enable 
+the development of end-to-end, deployable solutions. 
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 4 
+FACULTY / FACILITATOR 
+ 
+Dr. Ramji Srinivasan 
+Adjunct Professor | Senior Consultant, IIT Madras 
+Facilitator/Instructor, IITM Pravartak | Jaro Education | FedEx Smart Center and IITM CODE 
+Co-founder & Director, Bit2Qubit Technologies Ltd | PlayuNxt Tech Private Limited 
+Scientific Advisor | Lead AI Consultant, ParvAI Labs | Sonolight Imaging Innovations Pvt Ltd 
+ 
+INDUSTRY & ACADEMIC CREDENTIALS 
+ 
+Dr. Ramji Srinivasan is an AI Strategist and Deep Tech Specialist with over 23+ years of 
+global experience spanning industry, research, and academia. He has led the development 
+of production -grade AI systems for embedded platforms, including wearables and audio 
+technologies, delivering machine learning solutions under r eal-world constraints.  At 
+present, he focuses on bridging cutting -edge AI research with scalable, real -world 
+deployments, driving innovation across domains such as healthcare, logistics, and intelligent 
+systems in collaboration with startups and enterprise partners. 
+ 
+HIGHLIGHTS 
+23+ Years 
+ 
+Deep Tech & AI 
+Leadership 
+20+ 
+ 
+Global Patents & 
+Filings 
+Startup & 
+Product Impact 
+ 
+Ventures & real-world 
+deployments 
+Strategic 
+Advisor 
+ 
+Enterprises &  
+deep-tech startups 
+• Drives AI innovation from research to real -world impact, delivering systems that perform 
+reliably under complex, constrained environments. 
+• Architects scalable, production-grade AI solutions, bridging embedded intelligence, signal 
+processing, and wearable platforms. 
+• Transforms cutting -edge AI into tangible business and technology outcomes, enabling 
+startups and enterprises to deploy actionable, high-value solutions. 
+• Combines technical rigor with deployment experience, offering a strategic perspective on 
+what truly works at scale in applied AI systems. 
+WHY LEARN FROM DR. RAMJI? 
+Dr. Ramji Srinivasan bridges cutting -edge AI research with real -world deployment, teaching 
+how AI systems succeed under real constraints. Learners gain hands -on expertise in 
+embedded AI, on-device machine learning, and scalable intelligent systems for deployment -
+ready applications. 
+ 
+This program uniquely combines academic depth from the faculty of the Indian Institute of 
+Technology Madras with extensive industry experience — a combination rarely found in a single 
+course. 
+ 
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 5 
+ 
+03   WHAT YOU WILL BUILD — A GLIMPSE 
+ 
+ 
+Throughout the program, you will build a complete end-to-end edge AI system — progressing 
+from raw sensor data to real-time intelligence on embedded hardware. 
+ 
+• Collect real-world data from onboard sensors such as temperature, motion, and audio. 
+• Clean, segment, and transform raw signals into meaningful features using signal processing 
+techniques. 
+• Design and train machine learning models suited for edge applications (classification, anomaly 
+detection). 
+• Evaluate model performance using metrics such as accuracy, precision–recall, and F1-score. 
+• Optimize models through quantization and compression for deployment on memory -
+constrained devices. 
+• Convert trained models into efficient embedded formats (TensorFlow Lite / C libraries). 
+• Deploy and integrate models with microcontroller firmware. 
+• Implement real-time inference pipelines directly on the device. 
+• Design decision logic (thresholding, smoothing) for stable real-world performance. 
+• Interface the system with external components for monitoring and interaction. 
+ 
+By the end of the program, you will have built, deployed, and validated a complete edge 
+AI system running on real hardware. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 6 
+04   CURRICULUM STRUCTURE 
+ 
+The program consists of 16 sessions delivered across 4 months.  
+Each 3-hour session follows a structured 2+1 format, with 2 hours of instructor-led theory with 
+engineering depth and 1 hour of guided practical implementation. Every session builds on the 
+previous one. 
+TOOLS & TECHNOLOGIES COVERED 
+ 
+• Python ecosystem  — NumPy, Pandas, Scikit -learn, and TensorFlow Lite — used for data processing, 
+model development, and deployment workflows 
+• Development platforms — Arduino IDE, Edge Impulse, and exposure to NRF Edge AI toolchains for end -
+to-end TinyML pipeline implementation across platforms 
+• Embedded systems programming  — integration of trained models into microcontroller firmware using 
+Embedded C / Arduino sketches for real-time inference 
+• Hardware — hands-on work with the Seeed XIAO BLE Sense (nRF52840) , Arduino UNO, along with 
+exposure to resource-constrained microcontroller environments 
+• Systems exposure  — introduction to ROS (Robot Operating System), serial communication, and 
+interfacing TinyML devices with ROS. 
+• Version control & portfolio  — Git and GitHub for structured project documentation and professional 
+portfolio development 
+• Advanced workflows  — quantization pipelines (float32 → int8), signal processing techniques, and 
+latency/memory optimization for production-grade edge AI systems 
+ 
+ 
+MODULE 01–02    ML FOUNDATIONS FOR EDGE APPLICATIONS 
+Sessions 1–2 · 6 Hours 
+The mathematical and conceptual backbone that every session builds from 
+✓ Core ML concepts: supervised learning, loss functions, overfitting, and model evaluation — introduced from 
+an embedded AI perspective 
+✓ Why models fail on devices: understanding memory, latency, and power constraints that govern real-world 
+performance, and how these constraints influence model design choices  
+✓ Introduction to the Seeed XIAO BLE Sense  and Arduino UNO : architecture, onboard sensors, and its 
+role as a deployment platform for TinyML systems 
+✓ Practical: environment setup, toolchain familiarization, and initial data capture from onboard sensors for 
+building a real-world dataset 
+ 
+ 
+ 
+MODULE 03–05    SENSOR DATA ENGINEERING 
+Sessions 3–5 · 9 Hours ·  
+The pipeline most courses skip entirely — and the one interviewer ask about most 
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 7 
+✓ Sensor physics: accelerometers, microphones, and temperature sensors — how they work, what their 
+signals represent, and how physical phenomena translate into digital data  
+✓ Signal sampling: aliasing, Nyquist theorem, and anti-aliasing filters — why incorrect sampling invalidates 
+downstream model performance on embedded systems 
+✓ Real-world data challenges: noise characterization, calibration drift, and data quality — handling 
+imperfect signals beyond curated datasets 
+✓ Feature engineering: time-domain (mean, RMS, zero-crossing) vs. spectral (FFT, MFCC) — selecting 
+representations based on signal characteristics and computational constraints  
+✓ Data pipeline design: windowing strategies, labeling approaches, and building a training-grade dataset 
+from raw sensor capture for reliable edge deployment 
+✓ Exposure to constrained TinyML environments: understanding how data representation and feature 
+extraction must adapt for microcontrollers with limited memory and compute  
+ 
+ 
+ 
+MODULE 06–09    MODEL TRAINING FOR EDGE DEPLOYMENT 
+Sessions 6–9 · 12 Hours ·  
+Training models with deployment constraints in mind from day one 
+✓ Core paradigms: classification, regression, and anomaly detection — selected and contextualized for edge-
+relevant use cases 
+✓ Edge-aware model selection: balancing accuracy, memory footprint, latency, and power — an engineering 
+decision framework for constrained devices 
+✓ Training workflows: using platforms such as Edge Impulse and exposure to alternative TinyML pipelines, 
+including DSP blocks, feature extraction, and end-to-end configuration 
+✓ Model evaluation: confusion matrices, precision–recall, and F1-score — interpreted in the context of real -
+world deployment constraints and failure modes 
+✓ Practical: train and validate a classification model using XIAO BLE sensor data, with cross -validation, 
+performance analysis, and deployment readiness considerations 
+ 
+ 
+ 
+MODULE 10–12    EDGE DEPLOYMENT & OPTIMISATION 
+Sessions 10–12 · 9 Hours ·  
+Where most ML engineers fail — and where this program goes deepest 
+✓ Model compression: pruning, quantization (float32 → int8), and knowledge distillation — understanding 
+the trade-offs between accuracy, memory footprint, and computational efficiency 
+✓ Deployment workflows: TensorFlow Lite for Microcontrollers, model conversion, and microcontroller -
+specific optimization for constrained hardware environments 
+✓ On-device inference: implementing efficient inference loops, latency measurement, memory profiling, and 
+power-aware execution on embedded devices 
+✓ Decision policies: confidence thresholding, output smoothing, and majority voting — designing stable and 
+reliable inference behavior under noisy real-world conditions 
+✓ Robustness in production: handling domain shift, dataset drift, and real -world variability through testing 
+strategies, validation pipelines, and iterative refinement 
+ 
+ 
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 8 
+ 
+MODULE 13–15    INTEGRATION & SYSTEMS THINKING 
+Sessions 13–15 · 9 Hours ·   
+Connecting edge inference to real systems — the final engineering mile 
+✓ Serial communication: transmitting inference outputs from the device to external systems for monitoring, 
+logging, and control 
+✓ Systems integration: interfacing edge AI devices with host systems, robotics frameworks (ROS), and 
+external applications for real-time decision workflows 
+✓ Introduction to ROS (Robot Operating System): subscribing to inference outputs and integrating edge 
+intelligence within a robotics or automation pipeline 
+✓ Use-case exploration: industrial and consumer applications — predictive maintenance, wearables, smart 
+sensors, and interactive edge systems 
+✓ Capstone sprint: integrate, deploy, and validate the trained model on the Seeed XIAO BLE  / Arduino UNO, 
+including real-time inference, system interaction, and performance measurement 
+ 
+ 
+ 
+MODULE 16    CAPSTONE PRESENTATION & PORTFOLIO COMPLETION 
+Session 16 · 3 Hours ·   
+The session that produces what matters most — your portfolio artifact. 
+✓ Live capstone demonstration: a fully functional edge AI system running on the Seeed XIAO BLE  / Arduino 
+UNO — presented and validated in front of peers and faculty 
+✓ Documentation and engineering review: complete pipeline write-up, performance metrics, and key design 
+decisions — structured for GitHub and technical evaluation 
+✓ Interview preparation: presenting and defending your system in a technical interview, including typical 
+questions on design choices, trade-offs, and failure scenarios 
+✓ Expert feedback: detailed, actionable, and engineering -grade input on system design, performance, and 
+deployment  
+ 
+ 
+CAPSTONE DELIVERABLE 
+ 
+Every student who completes Cohort 1 leaves with: 
+• A fully functional edge AI system running on Edge devices — demonstrating real-time, on-device 
+machine learning 
+• A complete, documented pipeline on GitHub: data collection → preprocessing → model training → 
+deployment → performance analysis 
+• A performance report covering accuracy, latency, and memory footprint — aligned with real-world 
+evaluation criteria 
+• A structured presentation walkthrough — refined and ready for technical interviews, including 
+design decisions and trade-offs 
+• An IIT Madras faculty programme certificate 
+ 
+It is a system you designed, built, and deployed. 
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 9 
+05   LEARNING EXPERIENCE 
+This program is structured around one belief: engineers learn by building things that break and 
+fixing them. Every session creates that opportunity — with faculty who have broken and fixed 
+real systems. 
+PEDAGOGY — THE 2 + 1 FORMAT 
+THEORY BLOCK  
+(2 HOURS) 
+ 
+• Every session begins with deep, instructor-led 
+learning. Prof. Babji and Dr. Ramji go beyond 
+concepts to explain why the mathematics works, 
+how it translates to real-world systems, and where 
+conventional approaches break down in practice. 
+• This is a highly interactive environment. Students 
+are encouraged to question, challenge, and think 
+critically — not just follow steps, but understand 
+the reasoning behind them. This is what sets the 
+program apart from standard tutorials. 
+PRACTICAL BLOCK  
+(1 HOUR) 
+ 
+• Each session concludes with a hands-on 
+practical on real hardware — Seeed XIAO BLE 
+Sense / Arduino UNO — working with live sensor 
+data, real models, and real-world constraints. 
+• IITM Team actively mentor during these sessions 
+— debugging, guiding, and pushing students 
+forward. This is live engineering support, not auto-
+graded exercises. 
+• Every practical is tightly integrated with the 
+session’s theory. By Session 16, these build into a 
+complete, end-to-end capstone system. 
+MENTORSHIP & SUPPORT 
+Live Q&A 
+ 
+Every session 
+includes open Q&A. 
+No question is 
+deferred to a forum. 
+Peer Cohort 
+ 
+Maximum 100 students. 
+You get to know your 
+peers. Accountability is 
+built in. 
+Community Access 
+ 
+Private social media 
+grouping (WhatsApp) — 
+active throughout the 4 
+months. 
+Session Recordings 
+ 
+All sessions recorded for 
+review.  
+LIVE CASE STUDIES 
+This program uses real -world case studies drawn from faculty research and industry experience — not 
+hypothetical examples. Case studies include: 
+• Weather prediction on Tiny ML systems:  Building a real -time weather classification system using 
+temperature and humidity data from DHT11 sensors, deployed on an 8 -bit microcontroller with just 2 KB 
+RAM using a compressed Decision Tree model 
+• Non-voice audio classification on edge devices:  Classifying environmental sounds (e.g., faucet vs. 
+noise) using a 1 -D CNN model running on microcontrollers with on -board PDM microphones, including 
+feature extraction and real-time inference under strict resource constraints 
+ 
+NETWORKING 
+Cohort 1 students enter a permanent network that grows with every cohort. Alumni of this program share a rare 
+credential — IIT Madras faculty certification in a specialization that most of the market has not yet reached. The 
+cohort WhatsApp and alumni group remain active after the program ends. 
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 10 
+06   CAREER OUTCOMES 
+A certificate shows you completed something. A working edge AI demo shows you can do 
+something. Employers in product companies have seen thousands of the former and are still 
+looking for the latter. 
+ROLES YOU ARE POSITIONED FOR 
+ROLE SALARY RANGE 
+Edge AI Engineer ₹12–22 LPA 
+Embedded ML Developer ₹14–28 LPA 
+ML Systems Engineer ₹15–30 LPA 
+IoT AI Specialist ₹10–20 LPA 
+Robotics AI Engineer ₹12–24 LPA 
+Industrial AI Developer ₹10–18 LPA 
+ 
+CAREER IMPACT — THE TRANSFORMATION 
+₹6–8 LPA 
+ 
+Typical pre-program salary  
+(service company roles) 
+→ 
+Career Trajectory 
+₹14–22 LPA 
+ 
+12-month target post-placement 
+(product company roles) 
+3X 
+ 
+Average interview 
+differentiation score* 
+*Based on feedback from hiring managers at product companies: candidates with a deployed edge AI demo 
+score 3× higher in technical screening relative to candidates with equivalent certificates but no portfolio artifact. 
+ 
+  
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 11 
+07   PROGRAM HIGHLIGHTS & KEY DIFFERENTIATORS 
+ 
+Features Self-Paced  
+Online Courses 
+Premium EdTech 
+Platforms 
+Government MOOC 
+Programs THIS PROGRAM 
+Instruction 
+Format ✗ Fully recorded ✗ Trainer-led 
+(recorded-heavy) ✗ Fully recorded ✓ Live sessions by IIT faculty 
+Hardware 
+Access ✗ No hardware ✗ No hardware ✗ No hardware ✓ Remote hardware access 
+with real-time practical 
+Faculty 
+Profile ✗ Not included ✗ Not included Partial exposure ✓ Delivered by IIT faculty with 
+strong industry experience 
+Edge 
+Deployment 
+✗ Simulated 
+environments ✗ Limited to demos ✗ Rarely covered ✓ Live on-device deployment 
+Sensor Data 
+Pipeline ✗ Limited coverage ✗ Often skipped ✗ Academic focus ✓ End-to-end implementation 
+Portfolio 
+Outcome ✗ Certificate only ✗ Mini-projects ✗ Certificate only ✓ Fully deployed working 
+system 
+Cohort Size Self-paced (1000+) 100+ learners Self-paced (1000+) ✓ Max 100 (focused cohort) 
+Engineering 
+Depth ✗ Minimal ✗ Limited Academic-oriented ✓ Industry-grade depth 
+Price (INR) ₹4,000–₹33,000 ₹48,000–₹3,00,000 ₹15,000–₹50,000 ₹ 60,000 
+Duration 3–6 months 8–12 months 12+ weeks 4 months 
+(efficient & intensive) 
+ 
+8 REASONS THIS PROGRAM IS DIFFERENT 
+No. Reason 
+1 
+IIT MADRAS FACULTY — Designed and delivered by active IIT Madras professors  with industrial 
+expertise, alongside a core team of experienced IITM researchers and engineers — the same people 
+building and deploying real-world systems. 
+2 
+SENSOR-TO-DEPLOYMENT PIPELINE — Master the complete stack most programs ignore: sensor 
+physics, data engineering, quantization, on-device inference, and production-grade robustness. 
+3 
+ENGINEERING THINKING, NOT TUTORIALS — Learn how real engineers think — through trade-offs, 
+baselines, failure modes, and design decisions.  
+4 
+SMALL COHORT — Limited to 100 participants to ensure every question is addressed and every 
+capstone is reviewed directly by IITM Team. 
+5 
+PORTFOLIO ARTIFACT, NOT A CERTIFICATE — Graduate with a working edge AI system, a documented 
+pipeline, and measurable performance. 
+6 
+WEEKEND-ONLY SCHEDULE — 16 intensive sessions across weekends, designed for working 
+professionals who want to build deeply without stepping away from their careers. 
+7 
+INTERVIEW-READY OUTCOME — Your capstone is built, refined, and presented to meet the 
+expectations of top product companies. 
+ 
+  
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 12 
+08   ADMISSIONS — COHORT 1 
+100 seats. One cohort. June 5, 2026. 
+The application process is designed to ensure every student who joins is ready to commit — 
+and ready to succeed. 
+SELECTION PROCESS 
+STEP STAGE DETAIL 
+01 Apply Online Submit application form: name, background, current role, motivation (3–5 sentences). 
+Link to any GitHub or project work if available — not mandatory. 
+02 Fee Payment & 
+Enrollment 
+Pay program fee (₹60,000) to confirm your seat. EMI options available in 3 monthly 
+installments.  
+03 Confirmation 
+Email 
+Receive confirmation within 24 hours.  
+ 
+IMPORTANT DATES — COHORT 1 
+Apr 1 
+ 
+Applications Open 
+Apr 30 
+ 
+Free Info Webinar 
+May 31 
+ 
+Enrollment Closes 
+June 5 
+ 
+Cohort 1 Begins 
+ 
+ 
+FEE STRUCTURE 
+PROGRAM FEE — ₹60,000/- 
+ 
+The fee covers: 
+60 hours of live instruction · access to all required hardware/software tools and platforms · IIT Madras faculty 
+programme certificate · private cohort community access · session recordings for revision . 
+ 
+PAYMENT OPTIONS: 
+• Full payment at enrollment · ₹60,000 — immediate seat confirmation 
+• 3-month EMI · ₹20,000/month — seat confirmed on first installment 
+ 
+All payments are processed through a secure payment gateway. Invoice provided for company reimbursement 
+or educational loan applications. 
+  
+EDGE AI IN IoT · IIT MADRAS × PHN TECHNOLOGY · COHORT 1 — June 5, 2026 · CONFIDENTIAL PROGRAM BROCHURE 
+© PHN Technology 2026 ·  www.phntechnology.com ·  Page 13 
+09   APPLY NOW — COHORT 1 
+ 
+100 seats. One cohort. June 5, 2026. 
+ 
+This program is designed to help you build, deploy, and understand a complete 
+edge AI system — so you’re prepared for real-world engineering challenges. 
+ 
+Enrollment closes May 31, 2026. 
+ 
+Apply at:  www.phntechnology.com/edge-ai  |  Or WhatsApp: +91 [XXXXX XXXXX] 
+ 
+ 
+CONTACT ADMISSIONS 
+For questions about EMI, group enrollment. 
+Email:  admissions@phntechnology.com 
+WhatsApp:  +91 [XXXXX XXXXX] 
+Website:  www.phntechnology.com/edge-ai 
+ 
+Response within 24 hours, Monday–Saturday. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PHN TECHNOLOGY  ·  NSDC TECHNOLOGY PARTNER  ·  IIT MADRAS FACULTY COLLABORATION 
+ 
+www.phntechnology.com  ·  Edge AI in IoT — Cohort 1  ·  June 5, 2026 
+ 
+
+========================================
+FILE: AIML & IoT brochure (3) (1).pdf
+========================================
+
+EDGE AI ML
+   IoT System
+/gid00017/gid00019/gid00016/gid00007/gid00006/gid00020/gid00020/gid00010/gid00016/gid00015/gid00002/gid00013/gid00001/gid00004/gid00006/gid00019/gid00021/gid00010/gid00007/gid00010/gid00004/gid00002/gid00021/gid00010/gid00016/gid00015/gid00001/gid00017/gid00019/gid00016/gid00008/gid00019/gid00002/gid00014
+/gid00420
+Transforming 
+Raw Sensor Data into 
+Deployed Intelligence 
+with Edge AI & IoT Systems
+/gid00009/gid00042/gid00048/gid00045/gid00046/gid00001/gid00013/gid00036/gid00049/gid00032
+/gid00427/gid00421/gid00422/gid00427/gid00425
+/gid00020/gid00032/gid00046/gid00046/gid00036/gid00042/gid00041/gid00046/gid00014/gid00042/gid00041/gid00047/gid00035/gid00046/gid00017/gid00045/gid00042/gid00034/gid00045/gid00028/gid00040/gid00001/gid00007/gid00032/gid00032
+/gid00687/gid00426/gid00421/gid00474/gid00421/gid00421/gid00421
+/gid00710/gid00008/gid00020/gid00021
+01 ABOUT THE PROGRAM
+India has hundreds of thousands of ML engineers. Very few can deploy a model to real hardware. That 
+gap between knowing theory and building systems that work, is what this program exists to close.
+This is not a course that teaches you to follow tutorials. It is built around the belief that genuine 
+engineering skill comes from understanding systems deeply the mathematics behind models, the 
+physics of sensor data, the constraints of edge hardware, and the rigour of professional deployment. 
+Every session connects theory to practice. Every practical build toward a portfolio artifact that speaks 
+for itself.
+THE INDUSTRY SIGNAL 
+Edge AI roles — Embedded ML Developer,  TinyML Engineer, Edge AI Systems Engineer are among 
+the fastest-growing specializations in the technology hiring market. Companies including NVIDIA, 
+Qualcomm, Bosch, Google, Intel, and India's fastest-growing IoT startups are actively building edge 
+inference capabilities into their products.
+What they cannot ﬁnd: engineers who understand the complete pipeline. Not just model training. 
+The full loop-sensor sampling, data engineering, quantization, on deviceinference, latency 
+optimization, and real-world robustness.
+PROGRAM VISION
+WHY NOW — MARKET DEMAND
+TARGET COMPANIES HIRING
+NVIDIA · Qualcomm · Google · Intel · Bosch 
+Tesla · Edge Impulse · Siemens · Tata Elxsi · 
+L&T  Technology · Indian IoT Startups. 
+SALARY BENCHMARKS
+Edge AI Engineer: ₹12–22 LPA
+Embedded ML Developer: ₹14–28 LPA
+ML Systems Engineer: ₹15–30 LPA 
+CAREER TRAJECTORY
+Students completing this program are positioned to move from ₹6–8 LPA service roles to 
+₹14–22 LPA product-company positions within 12 months of placement.
+Led by IIT Madras
+faculty
+Live
+Theory + Practical
+per session
+2 + 1
+Live remote access 
+to real-time practice 
+and deployment
+Real H/W
+IITM Pravartak 
+certiﬁcate
+IIT MadrasPROGRAM 
+HIGHLIGHTS
+Self-paced courses: global content, but no real hardware, no deployment, minimal interaction
+Premium EdTech: trainer-led, surface-level ML, demo-grade projects, large cohorts
+Government MOOCs: strong theory, but no edge deployment, no sensor pipeline, 
+no portfolio outcome
+THE MARKET GAP THIS PROGRAM FILLS
+www.phntechnology.com                                                                                                                                                                                         P age 02
+02 FACULTY
+Co-Head at FedEx Smart Center for supply chain Modeling, Algorithm, Research and Technology, 
+Indian Institute of Technology Madras. Co- Principal Investigator at the Center for Excellence in 
+Sports Science and Analytics Indian Institute of Technology Madras
+ 
+Secured ₹250M+ in competitive research funding across industry and government, enabling 
+large-scale real-world deployments.
+Active industry and government collaboration with FedEx, Defence Research and 
+DevelopmentOrganisation (CVRDE, NPOL), MoE, SAI, SERB, DAE, Pﬁzer, and many startups, 
+delivering deployed AI systems across logistics, defense, healthcare, sports, and industrial domains.
+Combines deep academic rigor with real-world system deployments, enabling a clear 
+understanding of both mathematical principles and engineering trade-offs.
+Your instructors don’t just teach AI they build, deploy, and publish it.
+Bringing together IIT Madras research excellence and global industry experience, 
+they deliver AI that works in the real world.
+Prof. Babji Srinivasan
+Professor, Department of Applied Mechanics and 
+Biomedical Engineering
+Indian Institute of Technology Madras
+ACADEMIC CREDENTIALS
+Prof. Babji Srinivasan is a Professor at Indian Institute of Technology Madras, with prior 
+academic experience at Indian Institute of Technology Gandhinagar and international research 
+experience at Columbia University, New York. His work spans machine learning, control systems, 
+and cyber-physical systems, with a strong focus on real-world data and deployment.
+                                         WHY LEARN FROM PROF. BABJI?
+Prof. Babji teaches Edge AI through real-world deployments, bringing practical insight into how AI 
+systems operate under real constraints. His approach combines machine learning, control systems, 
+and cyber-physical systems with strong mathematical grounding to enable the development of 
+end-to-end, deployable solutions.
+www.phntechnology.com                                                                                                                                                                                         P age 03
+Research Papers 
+in Top Tier Journals 
+150+
+Research Funding 
+Secured
+₹250M+
+Leading Applied 
+Research & Industry 
+Collaboration
+CoE – SS&A, 
+FedEx SMART
+Advisor in High 
+Performance Systems
+Sports Analytics
+HIGHLIGHTS
+Drives AI innovation from research to real-world impact, delivering systems that perform 
+reliably under complex, constrained environments.
+Architects scalable, production-grade AI solutions, bridging embedded intelligence, signal 
+processing, and wearable platforms.
+Transforms cutting-edge AI into tangible business and technology outcomes, enabling 
+startups and enterprises to deploy actionable, high-value solutions.
+Combines technical rigor with deployment experience, offering a strategic perspective on 
+what truly works at scale in applied AI systems.
+Dr. Ramji Srinivasan
+Deep Tech & AI 
+Leadership
+23+ Years
+Global Patents & 
+Filings
+20+
+Ventures & real-world 
+deployments
+Startup & 
+Product Impact
+Enterprises & 
+deep-tech startups
+Strategic Advisor
+HIGHLIGHTS
+Adjunct Professor | Senior Consultant, IIT Madras
+Facilitator/Instructor, IITM Pravartak | Jaro Education | FedEx Smart Center and 
+IITM CODE Co-founder & Director, Bit2Qubit Technologies Ltd | PlayuNxt Tech 
+Private Limited Scientiﬁc Advisor | Lead AI Consultant, ParvAI Labs | Sonolight 
+Imaging Innovations Pvt Ltd
+INDUSTRY & ACADEMIC CREDENTIALS
+Dr. Ramji Srinivasan is an AI Strategist and Deep Tech Specialist with over 23+ years of global 
+experience spanning industry, research, and academia. He has led the development of production
+grade AI systems for embedded platforms, including wearables and audio technologies, delivering 
+machine learning solutions under real-world constraints. At present, he focuses on bridging cutting
+edge AI research with scalable, real-world deployments, driving innovation across domains such as 
+healthcare, logistics, and intelligent systems in collaboration with startups and enterprise partners. 
+WHY LEARN FROM DR. RAMJI?
+Dr. Ramji Srinivasan bridges cutting-edge AI research with real-world deployment, teaching how AI 
+systems succeed under real constraints. Learners gain hands-on expertise in embedded AI, on-device 
+machine learning, and scalable intelligent systems for deployment ready applications.
+This program uniquely combines academic depth from the faculty of the Indian Institute of 
+Technology Madras with industry experience — a combination rarely found in a single course.
+www.phntechnology.com                                                                                                                                                                                         P age 04
+03 a GLIMPSE WHAT YOU WILL BUILD
+Throughout the program, you will build a complete end-to-end edge AI 
+system progressing from raw sensor data to real-time intelligence on 
+embedded hardware.
+By the end of the program, you will have built, deployed, and validated a 
+complete edge AI system running on real hardware.
+Collect real-world data from onboard sensors such as temperature, 
+motion, and audio.
+Clean, segment, and transform raw signals into meaningful features 
+using signal processing techniques.
+Design and train machine learning models suited for edge applications 
+(classiﬁcation, anomaly detection).
+Evaluate model performance using metrics such as accuracy, 
+precision–recall, and F1-score.
+Optimize models through quantization and compression for 
+deployment on memory�constrained devices.
+Convert trained models into efﬁcient embedded formats 
+(TensorFlow Lite / C libraries).
+Deploy and integrate models with microcontroller ﬁrmware.
+Implement real-time inference pipelines directly on the device.
+Design decision logic (thresholding, smoothing) for stable 
+real-world performance.
+Interface the system with external components for monitoring 
+and interaction.
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+www.phntechnology.com                                                                                                                                                                                         P age 05
+04 CURRICULUM STRUCTURE
+The program consists of 16 sessions delivered across 4 months. 
+Each 3-hour session follows a structured 2+1 format, with 2 hours of instructor-led theory 
+with engineering depth and 1 hour of guided practical implementation. Every session 
+builds on the previous one.
+Python ecosystem: NumPy, Pandas, Scikit-learn, and TensorFlow Lite used for
+data processing, model development, and deployment workﬂows
+Development platforms: Arduino IDE, Edge Impulse, and exposure to NRF Edge AI 
+toolchains for end to-end TinyML pipeline implementation across platforms
+Embedded systems programming: integration of trained models into 
+microcontroller ﬁrmware using Embedded C / Arduino sketches for real-time inference
+Hardware: hands-on work with the Seeed XIAO BLE Sense (nRF52840), Arduino UNO, 
+along with exposure to resource-constrained microcontroller environments
+Core ML concepts: supervised learning, loss functions, overﬁtting, and model 
+evaluation — introduced from an embedded AI perspective
+Why models fail on devices: understanding memory, latency, and power constraints 
+that govern real-world performance, and how these constraints inﬂuence model 
+design choices
+Introduction to the Seeed XIAO BLE Sense and Arduino UNO: architecture, onboard 
+sensors, and its role as a deployment platform for TinyML systems
+Practical: environment setup, toolchain familiarization, and initial data capture from 
+onboard sensors for building a real-world dataset
+Systems exposure: introduction to ROS (Robot Operating System), serial 
+communication, and interfacing TinyML devices with ROS.
+Version control & portfolio: Git and GitHub for structured project documentation 
+and professional portfolio development
+Advanced workﬂows: quantization pipelines (ﬂoat32 → int8), signal processing 
+techniques, and latency/memory optimization for production-grade edge AI systems
+TOOLS & TECHNOLOGIES COVERED
+MODULE 01–02  
+Sessions 1–2 | 6 Hours
+ML FOUNDATIONS FOR EDGE APPLICATIONS
+The mathematical and conceptual backbone that every session builds from 
+www.phntechnology.com                                                                                                                                                                                         P age 06
+Sensor physics: accelerometers, microphones, and temperature sensors how they 
+work, what their signals represent, and how physical phenomena translate into digital data
+Signal sampling: aliasing, Nyquist theorem, and anti-aliasing ﬁlters why incorrect 
+sampling invalidates downstream model performance on embedded systems
+Real-world data challenges: noise characterization, calibration drift, and data quality 
+handling imperfect signals beyond curated datasets
+Feature engineering: time-domain (mean, RMS, zero-crossing) vs. spectral (FFT, MFCC) 
+selecting representations based on signal characteristics and computational constraints
+Data pipeline design: windowing strategies, labeling approaches, and building a 
+training-grade dataset from raw sensor capture for reliable edge deployment
+Exposure to constrained TinyML environments: understanding how data 
+representation and feature extraction must adapt for microcontrollers with limited 
+memory and compute
+MODULE 03–05
+Sessions 3–5 | 9 Hours
+SENSOR DATA ENGINEERING
+The pipeline most courses skip entirely — and the one interviewer ask about most
+Core paradigms: classiﬁcation, regression, and anomaly detection selected and 
+contextualized for edge�relevant use cases
+Edge-aware model selection: balancing accuracy, memory footprint, latency, and power 
+an engineering decision framework for constrained devices
+Training workﬂows: using platforms such as Edge Impulse and exposure to alternative 
+TinyML pipelines, including DSP blocks, feature extraction, and end-to-end conﬁguration
+Model evaluation: confusion matrices, precision–recall, and F1-score interpreted in the 
+context of real�world deployment constraints and failure modes
+Practical: train and validate a classiﬁcation model using XIAO BLE sensor data, with 
+cross-validation, performance analysis, and deployment readiness considerations
+MODULE 06–09
+Sessions 6–9 | 12 Hours
+MODEL TRAINING FOR EDGE DEPLOYMENT
+Training models with deployment constraints in mind from day one
+www.phntechnology.com                                                                                                                                                                                         P age 07
+Model compression: pruning, quantization (ﬂoat32 → int8), and knowledge distillation 
+understanding the trade-offs between accuracy, memory footprint, and computational 
+efﬁciency
+Deployment workﬂows: TensorFlow Lite for Microcontrollers, model conversion, and 
+microcontroller�speciﬁc optimization for constrained hardware environment
+On-device inference: implementing efﬁcient inference loops, latency measurement, 
+memory proﬁling, and power-aware execution on embedded devices
+Decision policies: conﬁdence thresholding, output smoothing, and majority voting 
+designing stable and reliable inference behavior under noisy real-world conditions
+Robustness in production: handling domain shift, dataset drift, and real-world variability 
+through testing strategies, validation pipelines, and iterative reﬁnement
+MODULE 10–12
+Sessions 10–12 | 9 Hours
+EDGE DEPLOYMENT & OPTIMISATION
+Where most ML engineers fail — and where this program goes deepest
+Serial communication: transmitting inference outputs from the device to external systems 
+for monitoring, logging, and control
+Systems integration: interfacing edge AI devices with host systems, robotics frameworks 
+(ROS), and external applications for real-time decision workﬂows
+Introduction to ROS (Robot Operating System): subscribing to inference outputs and 
+integrating edge intelligence within a robotics or automation pipeline
+Use-case exploration: industrial and consumer applications predictive maintenance, 
+wearables, smart sensors, and interactive edge systems
+Capstone sprint: integrate, deploy, and validate the trained model on the Seeed XIAO 
+BLE / Arduino UNO, including real-time inference, system interaction, and performance 
+measurement
+MODULE 13–15
+Sessions 13–15 | 9 Hours
+INTEGRATION & SYSTEMS THINKING
+Connecting edge inference to real systems — the ﬁnal engineering mile
+www.phntechnology.com                                                                                                                                                                                         P age 08
+Live capstone demonstration: a fully functional edge AI system running on the Seeed 
+XIAO BLE / ArduinoUNO — presented and validated in front of peers and faculty
+Documentation and engineering review: complete pipeline write-up, performance 
+metrics, and key design decisions — structured for GitHub and technical evaluation
+Interview preparation: presenting and defending your system in a technical interview, 
+including typical questions on design choices, trade-offs, and failure scenarios
+Expert feedback: detailed, actionable, and engineering-grade input on system design, 
+performance, and deployment
+MODULE 16 
+Session 16 | 3 Hours
+CAPSTONE PRESENTATION & PORTFOLIO COMPLETION
+The session that produces what matters most — your portfolio artifact.
+A fully functional edge AI system running on Edge devices demonstrating real-time, 
+on-device machine learning
+A complete, documented pipeline on GitHub: data collection → preprocessing → model 
+training → deployment → performance analysis
+A performance report covering accuracy, latency, and memory footprint aligned with 
+real-world evaluation criteria
+A structured presentation walkthrough — reﬁned and ready for technical interviews, 
+including design decisions and trade-offs
+An IIT Madras faculty programme certiﬁcate
+CAPSTONE DELIVERABLE
+Every student who completes this course leaves with:
+It is a system you designed, built, and deployed
+www.phntechnology.com                                                                                                                                                                                         P age 09
+05 LEARNING EXPERIENCE
+This program is structured around one belief: engineers learn by building things that break 
+and ﬁxing them. Every session creates that opportunity with faculty who have broken and 
+ﬁxed real systems.
+Weather prediction on Tiny ML systems: Building a real-time weather classiﬁcation system 
+using temperature and humidity data from DHT11 sensors, deployed on an 8-bit microcontroller 
+with just 2 KB RAM using a compressed Decision Tree model
+Non-voice audio classiﬁcation on edge devices: Classifying environmental sounds (e.g., faucet 
+vs. noise) using a 1-D CNN model running on microcontrollers with on-board PDM microphones, 
+including feature extraction and real-time inference under strict resource constraints
+PEDAGOGY — THE 2 + 1 FORMAT 
+MENTORSHIP & SUPPORT
+LIVE CASE STUDIES
+THEORY BLOCK 
+(2 HOURS)
+Every session begins with deep, instructor-led 
+learning. Prof. Babji and Dr. Ramji go beyond 
+concepts to explain why the mathematics works, 
+how it translates to real-world systems, and where 
+conventional approaches break down in practice.
+This is a highly interactive environment. Students 
+are encouraged to question,challenge, and think 
+critically — not just follow steps, but understand 
+the reasoning behind them. This is what sets the 
+program apart from standard tutorials.
+PRACTICAL BLOCK
+(1 HOURS)
+Each session concludes with a hands-on practical 
+on real hardware Seeed XIAO BLE Sense Arduino 
+UNO working with live sensor data, real models, 
+and real-world constraints.
+IITM Team actively mentor during these sessions 
+debugging, guiding, and pushing students 
+forward. This is live engineering support, not auto 
+graded exercises
+Every practical is tightly integrated with the 
+session’s theory. By Session 16, these build into a 
+complete, end-to-end capstone system.
+Every session 
+includes open Q&A. 
+No question is 
+deferred to a forum.
+Live Q&A
+Maximum 100 students. 
+You get to know your
+peers. Accountability is 
+built in.
+Peer Cohort
+Private social media
+grouping (WhatsApp)
+active throughout the 4 
+months.
+Community Access
+All sessions recorded for 
+review.
+Session Recordings
+This program uses real-world case studies drawn from faculty research and industry experience 
+not hypothetical examples. Case studies include:
+www.phntechnology.com                                                                                                                                                                                         P age 10
+06 CAREER OUTCOMES
+A certiﬁcate shows you completed something. A working edge AI demo shows you can do 
+something. Employers in product companies have seen thousands of the former and are 
+still looking for the latter.
+*Based on feedback from hiring managers at product companies: candidates with a 
+deployed edge AI demo score 3× higher in technical screening relative to candidates with 
+equivalent certiﬁcates but no portfolio artifact.
+ROLES YOU ARE POSITIONED FOR  
+ROLE  SALARY RANGE 
+Edge AI Engineer ₹12–22 LPA 
+Embedded ML Developer ₹14–28 LPA 
+ML Systems Engineer ₹15–30 LPA 
+IoT AI Specialist ₹10–20 LPA 
+Robotics AI Engineer ₹12–24 LPA 
+Industrial AI Developer ₹10–18 LPA 
+ 
+CAREER IMPACT  THE TRANSFORMATION  
+ 
+ 
+→  
+ 
+ 
+₹6–8 LPA ₹14–22 LPA 3X
+Typical pre-program salary 
+(service company roles)
+12-month target post-placement 
+(product company roles)
+Average interview 
+differentiation score*
+www.phntechnology.com                                                                                                                                                                                         P age 11
+07 PROGRAM HIGHLIGHTS & KEY DIFFERENTIATORS
+IIT MADRAS FACULTY Designed and delivered by active IIT Madras professors with industrial 
+expertise, alongside a core team of experienced IITM researchers and engineers — the same people 
+building and deploying real-world systems.
+SENSOR-TO-DEPLOYMENT PIPELINE Master the complete stack most programs ignore: sensor 
+physics, data engineering, quantization, on-device inference, and production-grade robustness.
+ENGINEERING THINKING, NOT TUTORIALS Learn how real engineers think — through trade-offs, 
+baselines, failure modes, and design decisions. 
+SMALL COHORT Limited to 100 participants to ensure every question is addressed and every 
+capstone is reviewed directly by IITM Team.
+PORTFOLIO ARTIFACT, NOT A CERTIFICATE Graduate with a working edge AI system, a documented 
+pipeline, and measurable performance.
+WEEKEND-ONLY SCHEDULE 16 intensive sessions across weekends, designed for working 
+professionals who want to build deeply without stepping away from their careers.
+INTERVIEW-READY OUTCOME Your capstone is built, reﬁned, and presented to meet the 
+expectations of top product companies.
+Instruction 
+Format ✗ Fully recorded ✗ Trainer-led 
+(recorded-heavy) ✗ Fully recorded ✓ Live sessions by IIT faculty 
+Hardware 
+Access ✗ No hardware ✗ No hardware ✗ No hardware ✓ Remote hardware access 
+with real-time practical 
+Faculty 
+Proﬁle ✗ Not included ✗ Not included Partial exposure ✓ Delivered by IIT faculty with 
+strong industry experience 
+Edge 
+Deployment 
+✗ Simulated 
+environments ✗ Limited to demos ✗ Rarely covered ✓ Live on-device deployment 
+Sensor Data 
+Pipeline ✗ Limited coverage ✗ Often skipped ✗ Academic focus ✓ End-to-end implementation 
+Portfolio 
+Outcome ✗ Certiﬁcate only ✗ Mini-projects ✗ Certiﬁcate only ✓ Fully deployed working 
+system 
+Cohort Size Self-paced (1000+) 100+ learners Self-paced (1000+) ✓ Max 100 (focused cohort) 
+Engineering 
+Depth ✗ Minimal ✗ Limited Academic-oriented ✓ Industry-grade depth 
+Price (INR) ₹4,000–₹33,000 ₹48,000–₹3,00,000 ₹15,000–₹50,000 ₹ 60,000 
+Duration 3–6 months 8–12 months 12+ weeks 4 months 
+(eﬃcient & intensive) 
+8 REASONS THIS PROGRAM IS DIFFERENT
+ 
+ Reason  
+1  
+2
+ 
+3
+ 
+4
+ 
+5
+ 
+6
+ 
+7
+ 
+Features  Self-Paced 
+Online Courses
+Premium EdTech 
+Platforms
+Government MOOC 
+Programs THIS PROGRAM
+www.phntechnology.com                                                                                                                                                                                         P age 12
+08 ADMISSIONS COHORT
+The application process is designed to ensure every student who joins is ready to commit 
+and ready to succeed.
+All payments are processed through a secure payment gateway. Invoice provided for 
+company reimbursement or educational loan applications.
+IMPORTANT DATES  COHORT  
+Apr 1 
+ 
+Applications Open 
+Apr 30 
+Free Info Webinar 
+May 31 
+ 
+Enrollment Closes 
+June 5 
+ 
+Cohort Begins  
+One cohort| June 5, 2026 
+SELECTION PROCESS 
+STEP STAGE DETAIL 
+01 Apply Online Submit application form  
+02 Fee Payment & 
+Enrollment 
+Pay program fee (₹60,000) to confirm your seat. EMI options available in 3 monthly 
+installments.  
+03 Confirmation 
+Email 
+Receive confirmation within 24 hours.  
+ 
+The fee covers:
+60 hours of live instruction | IITM Pravartak programme certiﬁcate | session recordings for revision.
+PAYMENT OPTIONS:
+• Full payment at enrollment · ₹50,000 immediate seat confirmation
+• 3-month EMI · ₹20,000/month seat confirmed on first installment
+FEE STRUCTURE
+PROGRAM FEE — ₹50,000/ + gst
+www.phntechnology.com                                                                                                                                                                                         P age 13
+APPLY NOW
+This program is designed to help you build, deploy, and understand a complete 
+edge AI system — so you’re prepared for real-world engineering challenges.
+Enrollment closes May 31, 2026.
+CONTACT ADMISSIONS
+For questions about EMI, group enrollment.
+Email: admissions@phntechnology.com
+WhatsApp: +91 86005 86005
+Website: https://lms.phntechnology.com
+Response within 24 hours, Monday–Saturday. 
+PHN TECHNOLOGY | NSDC TECHNOLOGY PARTNER | 
+IIT MADRAS FACULTY COLLABORATION 
+www.phntechnology.com | Edge AI in IoT - Cohort 1 | June 5, 2026 

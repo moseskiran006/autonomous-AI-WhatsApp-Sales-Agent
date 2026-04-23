@@ -1,0 +1,89 @@
+
+
+services:
+  # ============================================
+  # Ollama - Local LLM Server with GPU
+  # ============================================
+  ollama:
+    image: ollama/ollama:latest
+    container_name: phn-ollama
+    ports:
+      - "11435:11434"  # Host 11435 to avoid conflict with native Ollama
+    volumes:
+      - ollama_data:/root/.ollama
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 15s
+
+  # ============================================
+  # Model Setup - Pulls required models (runs once)
+  # ============================================
+  model-setup:
+    image: curlimages/curl:latest
+    container_name: phn-model-setup
+    depends_on:
+      ollama:
+        condition: service_healthy
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        echo "🔄 Pulling Qwen 2.5 7B Instruct model..."
+        curl -s http://ollama:11434/api/pull -d '{"name": "qwen2.5:7b-instruct"}' | tail -1
+        echo ""
+        echo "✅ Qwen 2.5 7B Instruct ready!"
+        echo ""
+        echo "🔄 Pulling nomic-embed-text embedding model..."
+        curl -s http://ollama:11434/api/pull -d '{"name": "nomic-embed-text"}' | tail -1
+        echo ""
+        echo "✅ nomic-embed-text ready!"
+        echo ""
+        echo "🎉 All models are ready!"
+    restart: "no"
+
+  # ============================================
+  # Agent App - FastAPI + LangGraph + ChromaDB
+  # ============================================
+  agent-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: phn-whatsapp-agent
+    ports:
+      - "8000:8000"
+    depends_on:
+      ollama:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+    volumes:
+      - ./knowledge_base:/app/knowledge_base:ro
+      - chroma_data:/app/chroma_data
+      - sqlite_data:/app/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+
+volumes:
+  ollama_data:
+    name: phn_ollama_data
+  chroma_data:
+    name: phn_chroma_data
+  sqlite_data:
+    name: phn_sqlite_data
